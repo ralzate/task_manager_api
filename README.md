@@ -16,7 +16,6 @@ Una API REST + GraphQL para administrar usuarios y sus tareas, construida con Ru
 - Ruby 3.0.0
 - Rails 7.1.5
 - PostgreSQL 15
-- Docker y Docker Compose (opcional pero recomendado)
 
 ### Clonar el repositorio:
 
